@@ -1,0 +1,15 @@
+{
+    "default_file": "./30k_UHQ.txt",
+    "max_rlimits": 3,
+    "rlimit_wait": 30,
+    "cooldown": 0,
+    "new_folder": "True",
+    "webhook": "",
+    "print_sys": "True",
+    "dw_settings": [
+        [
+            "stats (once per minute)"
+        ]
+    ],
+    "capybaras": "cool"
+}

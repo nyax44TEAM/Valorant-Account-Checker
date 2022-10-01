@@ -1,2 +1,5 @@
-python checker.py
+@echo off
+
+cd src
+python main.py
 pause
